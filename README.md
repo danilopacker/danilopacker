@@ -1,9 +1,10 @@
-<h2 style="align:center">Hello there 👋</h2>
-i'm Danilo and Welcome to my Learning Journey
+<h2 style="align:center">Hello there 👋 i'm Danilo </h2>
+<h3 style="text-align:center"> Welcome to my Learning Journey </h3>
 
-The process of learning something new isn't simple. In a world with constant changes and new things discovered every day, our brain struggle to maintain every information accessible. So, to overcome this, we need to apply some strategies that have been studied by many psichologists before. And that is why im creating and sharing with you My Learning Journey!
+<p>The process of learning something new isn't simple. In a world with constant changes and new things discovered every day, our brain struggle to maintain every information accessible. So, to overcome this, we need to apply some strategies that have been studied by many psichologists before. And that is why im creating and sharing with you My Learning Journey!</p>
+  
 
-<!--
+  <!--
 **danilopacker/danilopacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
