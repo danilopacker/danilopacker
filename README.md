@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7VHOHdFAYRF0qUYEht/giphy.gif" width="200"/>
-<h3 align="center">Hello there 👋 i'm Danilo </h3>
-<h2 align="center"> A brazillian Software Engineer </h2>
+  <h3 align="center">Hello there 👋 i'm Danilo </h3>
+  <h3 align="center"> and </h3>
+  <h2 align="center"> Welcome to my GitHub Page! </h2>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -13,6 +14,18 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+</div>
+
+<div id="about-me">
+  <h2> About me </h2>
+
+<p>Despite having a degree in software engineering, currently im a programming rookie in the path to become a Javascript Full Stack Developer.</p>
+
+<p>Right after my graduation I was dedicating myself to a non-technology-related business that didn't work out.</p>
+
+<p>And since i’ve started to studying programming again, I slowly fell in love with it, specially to Front-End</p>
+
+<p>I’m a really honest person, with creative skills to solving problem and a little bit perfeccionist.</p>
 </div>
 
 <p>The process of learning something new isn't simple. In a world with constant changes and new things discovered every day, our brain struggle to maintain every information accessible. So, to overcome this, we need to apply some strategies that have been studied by many psichologists before. And that is why im creating and sharing with you My Learning Journey!</p>
