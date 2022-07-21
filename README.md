@@ -40,11 +40,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=danilopacker&show_icons=true&theme=gruvbox" title="Stats" **alt="Stats" width="500" height="300"/>
   </div>
   <div>
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=Javascript-Basics&theme=gruvbox&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=GendalfTribute&theme=gruvbox alt="github-readme-streak-stats">
+    <h3>Learning Projects</h3>
+      <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=Javascript-Basics&theme=gruvbox&  bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+      <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=GendalfTribute&theme=gruvbox alt="github-readme-streak-stats">
   </div>
 </div>
-
+<p></p>
 <div id="quote" align="center">
   <figure>
     <blockquote>
