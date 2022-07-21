@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/7VHOHdFAYRF0qUYEht/giphy.gif" width="100"/>
+</div>
+
 <h3 align="center">Hello there 👋 i'm Danilo </h3>
 <h2 align="center"> Welcome to my Learning Journey </h2>
 <p align="center"><img src="https://progress-bar.dev/15/?scale=500&title=accomplished&width=500&color=babaca&suffix=%"></img></p>
