@@ -38,7 +38,6 @@
   <h2>📈 My GitHub Stats </h2>
   <div>
     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danilopacker&theme=gruvbox)](https://git.io/streak-stats)
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
     <img src="https://github-readme-streak-stats.herokuapp.com?user=danilopacker&theme=gruvbox" title="Stats" **alt="Stats" width="250" height="200"/>
   </div>
 </div>
