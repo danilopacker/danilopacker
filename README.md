@@ -4,16 +4,6 @@
   <h3 align="center"> and </h3>
   <h2 align="center"> Welcome to my GitHub Page! </h2>
 </div>
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <figure>
     <blockquote>
         <p>What embitters the world is not excess of criticism, but an absence of self-criticism.</p>
@@ -35,6 +25,17 @@
 </div>
 
 <p>The process of learning something new isn't simple. In a world with constant changes and new things discovered every day, our brain struggle to maintain every information accessible. So, to overcome this, we need to apply some strategies that have been studied by many psichologists before. And that is why im creating and sharing with you My Learning Journey!</p>
+
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 
 
   <!--
