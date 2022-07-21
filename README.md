@@ -1,8 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7VHOHdFAYRF0qUYEht/giphy.gif" width="200"/>
   <h3 align="center">Hello there 👋 i'm Danilo </h3>
-  <h3 align="center"> and </h3>
-  <h2 align="center"> Welcome to my GitHub Page! </h2>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
