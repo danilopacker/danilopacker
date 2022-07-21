@@ -35,10 +35,6 @@
 </div>
 
 ---
-<p align="center"> © 2021 Creative Tim, all rights reserved. Made with ❤️ for a better web. </p>
-<p align="center">
-</p>
-
 <div id="quote" align="center">
   <figure>
     <blockquote>
@@ -47,6 +43,10 @@
     <figcaption>G.K. Chesterton </figcaption>
   </figure>
 </div>
+<p align="center"> © 2022 Made with ❤️ for a better web. </p>
+<p align="center">
+</p>
+
 
   <!--
 **danilopacker/danilopacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
