@@ -5,7 +5,7 @@
 <h3 align="center">Hello there 👋 i'm Danilo </h3>
 <h2 align="center"> Welcome to my Learning Journey </h2>
 <p align="center"><img src="https://progress-bar.dev/15/?scale=500&title=accomplished&width=500&color=babaca&suffix=%"></img></p>
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
