@@ -38,6 +38,7 @@
   <h2>📈 My GitHub Stats </h2>
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=danilopacker&theme=gruvbox" title="Stats" **alt="Stats" width="500" height="300"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=danilopacker&show_icons=true&theme=gruvbox" title="LanguageStats" **alt="LanguageStats" width="500" height="300"/>
   </div>
 </div>
 
