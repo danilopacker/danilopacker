@@ -40,7 +40,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=danilopacker&show_icons=true&theme=gruvbox" title="Stats" **alt="Stats" width="500" height="300"/>
   </div>
   <div  align="center">
-    <h3 margin-top="-15px">My Learning Projects </h3>
+    <p><b>My Learning Projects</b></p>
       <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=Javascript-Basics&theme=gruvbox&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
       <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=GendalfTribute&theme=gruvbox&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
   </div>
