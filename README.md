@@ -37,7 +37,7 @@
 <div id="github">
   <h2>📈 My GitHub Stats </h2>
   <div>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danilopacker&theme=gruvbox)](https://git.io/streak-stats
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danilopacker&theme=gruvbox)](https://git.io/streak-stats)
   </div>
 </div>
 
