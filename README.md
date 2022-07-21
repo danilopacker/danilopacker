@@ -4,8 +4,6 @@
 
 <p>The process of learning something new isn't simple. In a world with constant changes and new things discovered every day, our brain struggle to maintain every information accessible. So, to overcome this, we need to apply some strategies that have been studied by many psichologists before. And that is why im creating and sharing with you My Learning Journey!</p>
 
-<p> You can check out my progress in my Notion page <a href="https://www.notion.so/My-Progress-4e62a93473964648a06fd4cebd190194">here</a></p>
-
 
   <!--
 **danilopacker/danilopacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
