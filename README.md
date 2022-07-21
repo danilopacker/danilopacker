@@ -15,10 +15,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <figure>
-    <blockquote cite="https://www.huxley.net/bnw/four.html">
-        <p>Words can be like X-rays, if you use them properly—they’ll go through anything. You read and you’re pierced.</p>
+    <blockquote>
+        <p>What embitters the world is not excess of criticism, but an absence of self-criticism.</p>
     </blockquote>
-    <figcaption>—Aldous Huxley, <cite>Brave New World</cite></figcaption>
+    <figcaption>G.K. Chesterton </figcaption>
 </figure>
 </div>
 
