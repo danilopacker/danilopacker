@@ -34,6 +34,11 @@
   </div>
 </div>
 
+<div id="github" align="center">
+  <h2>📈 My GitHub Stats </h2>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danilopacker&theme=gruvbox)](https://git.io/streak-stats)
+</div>
+
 ---
 <div id="quote" align="center">
   <figure>
