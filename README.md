@@ -41,7 +41,6 @@
   </div>
 </div>
 
----
 <div id="quote" align="center">
   <figure>
     <blockquote>
@@ -50,6 +49,8 @@
     <figcaption>G.K. Chesterton </figcaption>
   </figure>
 </div>
+
+---
 <p align="center"> © 2022 Made with ❤️ for a better web. </p>
 <p align="center">
 </p>
