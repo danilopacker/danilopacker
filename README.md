@@ -45,7 +45,7 @@
       <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=GendalfTribute&theme=gruvbox&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
   </div>
 </div>
-<p></p>
+<h3></h3>
 <div id="quote" align="center">
   <figure>
     <blockquote>
