@@ -5,6 +5,17 @@
 <h3 align="center">Hello there 👋 i'm Danilo </h3>
 <h2 align="center"> Welcome to my Learning Journey </h2>
 <p align="center"><img src="https://progress-bar.dev/15/?scale=500&title=accomplished&width=500&color=babaca&suffix=%"></img></p>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <p>The process of learning something new isn't simple. In a world with constant changes and new things discovered every day, our brain struggle to maintain every information accessible. So, to overcome this, we need to apply some strategies that have been studied by many psichologists before. And that is why im creating and sharing with you My Learning Journey!</p>
 
