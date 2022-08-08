@@ -40,7 +40,7 @@
     <p><b>My Learning Projects</b></p>
       <a href="https://github.com/MyLearningJouney/Javascript-Basics"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=Javascript-Basics&theme=gruvbox&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
       <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=GendalfTribute&theme=gruvbox&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-      <a href="https://github.com/MyLearningJouney/react-basics"><img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=react-basics&theme=gruvbox&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+      <a href="https://github.com/MyLearningJouney/react-basics"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=react-basics&theme=gruvbox" alt="github-readme-streak-stats"></a>
       <a href="https://github.com/anuraghazra/convoychat">
        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=react-basics&theme=gruvbox" />
       </a>
