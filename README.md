@@ -41,7 +41,9 @@
       <a href="https://github.com/MyLearningJouney/Javascript-Basics">
         <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=Javascript-Basics&theme=gruvbox" 
       </a>
-      <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=GendalfTribute&theme=gruvbox&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+      <a href="">
+      <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=GandalfTribute&theme=gruvbox" alt="github-readme-streak-stats">
+      </a>
       <a href="https://github.com/MyLearningJouney/react-basics">
         <img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=react-basics&theme=gruvbox" alt="github-readme-streak-stats">
       </a>
