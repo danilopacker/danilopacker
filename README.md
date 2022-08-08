@@ -47,6 +47,7 @@
       <a href="https://github.com/MyLearningJouney/react-basics">
         <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=react-basics&theme=gruvbox" alt="github-readme-streak-stats">
       </a>
+              <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=GandalfTribute&theme=gruvbox" alt="github-readme-streak-stats">
   </div>
 </div>
 <h2> </h2>
