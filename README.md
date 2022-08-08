@@ -41,7 +41,7 @@
       <a href="https://github.com/MyLearningJouney/Javascript-Basics">
         <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=Javascript-Basics&theme=gruvbox" 
       </a>
-      <a href="">
+      <a href="https://github.com/MyLearningJouney/GandalfTribute">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=GandalfTribute&theme=gruvbox" alt="github-readme-streak-stats">
       </a>
       <a href="https://github.com/MyLearningJouney/react-basics">
