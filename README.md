@@ -44,10 +44,10 @@
         <img width="400" src="https://github-readme-stats-gules-two.vercel.app/api/pin/?username=MyLearningJouney&repo=Javascript-Basics&theme=gruvbox" 
       </a>
       <a href="https://github.com/MyLearningJouney/react-basics">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=react-basics&theme=gruvbox" alt="github-readme-streak-stats">
+        <img width="400" src="https://github-readme-stats-gules-two.vercel.app/api/pin/?username=MyLearningJouney&repo=react-basics&theme=gruvbox" alt="github-readme-streak-stats">
       </a>
       <a href="https://github.com/MyLearningJouney/Django-React-TodoList">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=Django-React-TodoList&theme=gruvbox" alt="github-readme-streak-stats">
+      <img width="400" src="https://github-readme-stats-gules-two.vercel.app/api/pin/?username=MyLearningJouney&repo=Django-React-TodoList&theme=gruvbox" alt="github-readme-streak-stats">
       </a>
   </div>
 </div>
