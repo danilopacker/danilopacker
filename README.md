@@ -36,7 +36,7 @@
 <div id="github">
   <h2>📈 My GitHub Stats and Projects </h2>
   <div align="center">
-    <img src="https://github-readme-stats-gules-two.vercel.app/api/pin/?username=danilopacker&show_icons=true&theme=gruvbox" title="Stats" **alt="Stats" width="500" height="300"/>
+    <img src="https://github-readme-stats-gules-two.vercel.app/api/?username=danilopacker&show_icons=true&theme=gruvbox" title="Stats" **alt="Stats" width="500" height="300"/>
   </div>
   <div  align="center">
     <p><b>My Learning Projects</b></p>
