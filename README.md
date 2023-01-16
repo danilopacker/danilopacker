@@ -36,12 +36,12 @@
 <div id="github">
   <h2>📈 My GitHub Stats and Projects </h2>
   <div align="center">
-    <img src="github-readme-stats-gules-two.vercel.app?username=danilopacker&show_icons=true&theme=gruvbox" title="Stats" **alt="Stats" width="500" height="300"/>
+    <img src="https://github-readme-stats-gules-two.vercel.app?username=danilopacker&show_icons=true&theme=gruvbox" title="Stats" **alt="Stats" width="500" height="300"/>
   </div>
   <div  align="center">
     <p><b>My Learning Projects</b></p>
       <a href="https://github.com/MyLearningJouney/Javascript-Basics">
-        <img width="400" src="github-readme-stats-gules-two.vercel.app/api/pin/?username=MyLearningJouney&repo=Javascript-Basics&theme=gruvbox" 
+        <img width="400" src="https://github-readme-stats-gules-two.vercel.app/api/pin/?username=MyLearningJouney&repo=Javascript-Basics&theme=gruvbox" 
       </a>
       <a href="https://github.com/MyLearningJouney/react-basics">
         <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MyLearningJouney&repo=react-basics&theme=gruvbox" alt="github-readme-streak-stats">
