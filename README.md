@@ -13,10 +13,10 @@
 
 <div id="about-me">
   <h2>😎 About me </h2>
-  <p>Despite having a degree in software engineering, currently im a programming rookie in the path to become a Full Stack Developer.</p>
-  <p>Right after my graduation I was dedicating myself to a non-technology-related business that didn't work out.</p>
-  <p>And since i’ve started to studying programming again, I slowly fell in love with it, specially to Front-End</p>
-  <p>I’m a really honest person, with creative skills to solving problem and a little bit perfeccionist.</p>
+  <p>Full Stack Developer working for Municipal Government of Jaraguá do Sul city, in Brazil.</p>
+  <p>Currently working in tech solutions to bring more efficiency and accuracy to government decisions.</p>
+  <p>I believe that governments with technological approach to decisions making can bring more beneficts to the people in general.</p>
+  <p>I’m a really honest person, with creative skills to solving problem and hoping to make the world a better place through my tech skills.</p>
 </div>
 
 <div id="Skills">
