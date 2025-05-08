@@ -51,21 +51,10 @@
 </div>
 
 <div id="github">
-  <h2>📈 My GitHub Stats and Projects </h2>
-  <div align="center">
-    <img src="https://github-readme-stats-gules-two.vercel.app/api/?username=danilopacker&show_icons=true&theme=gruvbox" title="Stats" **alt="Stats" width="500" height="300"/>
-  </div>
+  <h2>📈 Projects </h2>
   <div  align="center">
-    <p><b>My Learning Projects</b></p>
-      <a href="https://github.com/MyLearningJouney/Javascript-Basics">
-        <img width="400" src="https://github-readme-stats-gules-two.vercel.app/api/pin/?username=MyLearningJouney&repo=Javascript-Basics&theme=gruvbox" 
-      </a>
-      <a href="https://github.com/MyLearningJouney/react-basics">
-        <img width="400" src="https://github-readme-stats-gules-two.vercel.app/api/pin/?username=MyLearningJouney&repo=react-basics&theme=gruvbox" alt="github-readme-streak-stats">
-      </a>
-      <a href="https://github.com/MyLearningJouney/Django-React-TodoList">
-      <img width="400" src="https://github-readme-stats-gules-two.vercel.app/api/pin/?username=MyLearningJouney&repo=Django-React-TodoList&theme=gruvbox" alt="github-readme-streak-stats">
-      </a>
+    <p><b>My Projects</b></p>
+        <p>In progress...</p>
   </div>
 </div>
 <h2> </h2>
