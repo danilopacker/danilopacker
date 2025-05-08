@@ -79,7 +79,7 @@
 </div>
 
 ---
-<p align="center"> © 2022 Made with ❤️. </p>
+<p align="center"> © 2025 Made with ❤️. </p>
 <p align="center">
 </p>
 
